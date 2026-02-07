@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest man in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss! MMMuah!!!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "I LOVE YOU, here's a big hug and a huge kiss! MMMMMUAHH!!!",
+        emojis: "💖💖💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
